@@ -1,0 +1,20 @@
+{
+  "name": "robot_grafo",
+  "version": "22.8.0",
+  "description": "Proyecto basado en un grafo, donde un simulador de robot recogera y entregara los correos a los 11 lugares establecidos en el grafo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Robot_Grafo"
+  },
+  "keywords": [
+    "nodeJs",
+    "JavaScript"
+  ],
+  "type": "module",
+  "author": "Jose Linder Casas Martinez",
+  "license": "ISC"
+}
